@@ -1,0 +1,6 @@
+@NewIdentity_HostAddress = http://localhost:5263
+
+GET {{NewIdentity_HostAddress}}/Exception
+Accept: application/json
+
+###
